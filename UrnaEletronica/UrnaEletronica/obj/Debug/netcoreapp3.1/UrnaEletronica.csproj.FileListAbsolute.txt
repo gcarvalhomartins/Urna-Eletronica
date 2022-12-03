@@ -1,0 +1,14 @@
+C:\Users\55929\Desktop\Projetos\UrnaEletronica\UrnaEletronica\UrnaEletronica\bin\Debug\netcoreapp3.1\UrnaEletronica.exe
+C:\Users\55929\Desktop\Projetos\UrnaEletronica\UrnaEletronica\UrnaEletronica\bin\Debug\netcoreapp3.1\UrnaEletronica.deps.json
+C:\Users\55929\Desktop\Projetos\UrnaEletronica\UrnaEletronica\UrnaEletronica\bin\Debug\netcoreapp3.1\UrnaEletronica.runtimeconfig.json
+C:\Users\55929\Desktop\Projetos\UrnaEletronica\UrnaEletronica\UrnaEletronica\bin\Debug\netcoreapp3.1\UrnaEletronica.runtimeconfig.dev.json
+C:\Users\55929\Desktop\Projetos\UrnaEletronica\UrnaEletronica\UrnaEletronica\bin\Debug\netcoreapp3.1\UrnaEletronica.dll
+C:\Users\55929\Desktop\Projetos\UrnaEletronica\UrnaEletronica\UrnaEletronica\bin\Debug\netcoreapp3.1\UrnaEletronica.pdb
+C:\Users\55929\Desktop\Projetos\UrnaEletronica\UrnaEletronica\UrnaEletronica\obj\Debug\netcoreapp3.1\UrnaEletronica.csproj.AssemblyReference.cache
+C:\Users\55929\Desktop\Projetos\UrnaEletronica\UrnaEletronica\UrnaEletronica\obj\Debug\netcoreapp3.1\UrnaEletronica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55929\Desktop\Projetos\UrnaEletronica\UrnaEletronica\UrnaEletronica\obj\Debug\netcoreapp3.1\UrnaEletronica.AssemblyInfoInputs.cache
+C:\Users\55929\Desktop\Projetos\UrnaEletronica\UrnaEletronica\UrnaEletronica\obj\Debug\netcoreapp3.1\UrnaEletronica.AssemblyInfo.cs
+C:\Users\55929\Desktop\Projetos\UrnaEletronica\UrnaEletronica\UrnaEletronica\obj\Debug\netcoreapp3.1\UrnaEletronica.csproj.CoreCompileInputs.cache
+C:\Users\55929\Desktop\Projetos\UrnaEletronica\UrnaEletronica\UrnaEletronica\obj\Debug\netcoreapp3.1\UrnaEletronica.dll
+C:\Users\55929\Desktop\Projetos\UrnaEletronica\UrnaEletronica\UrnaEletronica\obj\Debug\netcoreapp3.1\UrnaEletronica.pdb
+C:\Users\55929\Desktop\Projetos\UrnaEletronica\UrnaEletronica\UrnaEletronica\obj\Debug\netcoreapp3.1\UrnaEletronica.genruntimeconfig.cache
