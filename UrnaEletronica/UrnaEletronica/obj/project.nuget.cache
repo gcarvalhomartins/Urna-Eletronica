@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pq4OC7jXyvGZN+zcJWY2taL6HKjih2cjgCKHM+ahqlmiRqHH2LnHs02ejq0Pqn8by0nlEnmRAz66vqTmCc3RoA==",
+  "dgSpecHash": "VzFq2gYq8O/b5pODlV2DmuEh/Q7hiEtwbdvRgnSa0cvaXatTuqv/bEBCFpjA2AdfP+9dxPNUmwEazbpNp6WvRQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\55929\\Desktop\\Projetos\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica.csproj",
+  "projectFilePath": "C:\\Users\\55929\\Desktop\\Projetos\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica.CLI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

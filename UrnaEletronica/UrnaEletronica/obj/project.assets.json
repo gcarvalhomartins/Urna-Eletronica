@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\55929\\Desktop\\Projetos\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica.csproj",
-      "projectName": "UrnaEletronica",
-      "projectPath": "C:\\Users\\55929\\Desktop\\Projetos\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica.csproj",
+      "projectUniqueName": "C:\\Users\\55929\\Desktop\\Projetos\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica.CLI.csproj",
+      "projectName": "UrnaEletronica.CLI",
+      "projectPath": "C:\\Users\\55929\\Desktop\\Projetos\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica.CLI.csproj",
       "packagesPath": "C:\\Users\\55929\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\55929\\Desktop\\Projetos\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica\\obj\\",
       "projectStyle": "PackageReference",
