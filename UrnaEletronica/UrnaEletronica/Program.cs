@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using UrnaEletronica.CLI;
 
 namespace UrnaEletronica
 {
@@ -21,13 +23,13 @@ namespace UrnaEletronica
             
             switch(respostaUsuario.ToLower()) {
                 case "a":
-                    Console.WriteLine();
+                    MenuCandidato.ExibirCandidato();
                     break;
                 case "b":
                     Console.WriteLine();
                     break;
                 case "c":
-                    Console.WriteLine();
+                        MenuExtras.CadastrarVisitante();
                     break;
                 default:
                     pediuPraSair= true;

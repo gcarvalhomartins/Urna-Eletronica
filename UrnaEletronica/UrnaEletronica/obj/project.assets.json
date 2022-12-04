@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "UrnaEletronica.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/UrnaEletronica.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UrnaEletronica.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "UrnaEletronica.Domain/1.0.0": {
+      "type": "project",
+      "path": "../UrnaEletronica.Domain/UrnaEletronica.Domain.csproj",
+      "msbuildProject": "../UrnaEletronica.Domain/UrnaEletronica.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "UrnaEletronica.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\55929\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\55929\\Desktop\\Projetos\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica.Domain\\UrnaEletronica.Domain.csproj": {
+              "projectPath": "C:\\Users\\55929\\Desktop\\Projetos\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica.Domain\\UrnaEletronica.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

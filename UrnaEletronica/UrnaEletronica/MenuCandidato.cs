@@ -6,16 +6,16 @@ namespace UrnaEletronica.CLI
 
 	internal class MenuCandidato
 	{
-		public void ExibirCandidato()
+		public static void ExibirCandidato()
 		{
             string respostaUsuario;
             bool pediuPraSair = false;
             do
             {
 
-                Console.WriteLine("nndndnd");
-                Console.WriteLine("A - Para Vizualizar os Candidatos ");
-            
+                Console.WriteLine("Você está em Vizualiação de Candidato =) ");
+                Console.WriteLine("A - Para Vizualizar os Candidatos a Presidencia ");
+                Console.WriteLine("A - Para Vizualizar os Candidatos a Governador ");
 
                 respostaUsuario = Console.ReadLine();
 

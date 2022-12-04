@@ -4,8 +4,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UrnaEletronica.CLI", "UrnaEletronica\UrnaEletronica.CLI.csproj", "{AADCB64D-BAC3-4B53-8E97-E04AB5B7143F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{55467D19-AB33-4390-8788-BEF15596D382} = {55467D19-AB33-4390-8788-BEF15596D382}
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrnaEletronica.Domain", "UrnaEletronica.Domain\UrnaEletronica.Domain.csproj", "{55467D19-AB33-4390-8788-BEF15596D382}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UrnaEletronica.Domain", "UrnaEletronica.Domain\UrnaEletronica.Domain.csproj", "{55467D19-AB33-4390-8788-BEF15596D382}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

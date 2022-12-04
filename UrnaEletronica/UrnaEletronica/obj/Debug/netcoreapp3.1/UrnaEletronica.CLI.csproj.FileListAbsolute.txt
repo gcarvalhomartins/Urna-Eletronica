@@ -1,0 +1,17 @@
+C:\Users\55929\Desktop\Projetos\UrnaEletronica\UrnaEletronica\UrnaEletronica\bin\Debug\netcoreapp3.1\UrnaEletronica.CLI.exe
+C:\Users\55929\Desktop\Projetos\UrnaEletronica\UrnaEletronica\UrnaEletronica\bin\Debug\netcoreapp3.1\UrnaEletronica.CLI.deps.json
+C:\Users\55929\Desktop\Projetos\UrnaEletronica\UrnaEletronica\UrnaEletronica\bin\Debug\netcoreapp3.1\UrnaEletronica.CLI.runtimeconfig.json
+C:\Users\55929\Desktop\Projetos\UrnaEletronica\UrnaEletronica\UrnaEletronica\bin\Debug\netcoreapp3.1\UrnaEletronica.CLI.runtimeconfig.dev.json
+C:\Users\55929\Desktop\Projetos\UrnaEletronica\UrnaEletronica\UrnaEletronica\bin\Debug\netcoreapp3.1\UrnaEletronica.CLI.dll
+C:\Users\55929\Desktop\Projetos\UrnaEletronica\UrnaEletronica\UrnaEletronica\bin\Debug\netcoreapp3.1\UrnaEletronica.CLI.pdb
+C:\Users\55929\Desktop\Projetos\UrnaEletronica\UrnaEletronica\UrnaEletronica\obj\Debug\netcoreapp3.1\UrnaEletronica.CLI.csproj.AssemblyReference.cache
+C:\Users\55929\Desktop\Projetos\UrnaEletronica\UrnaEletronica\UrnaEletronica\obj\Debug\netcoreapp3.1\UrnaEletronica.CLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55929\Desktop\Projetos\UrnaEletronica\UrnaEletronica\UrnaEletronica\obj\Debug\netcoreapp3.1\UrnaEletronica.CLI.AssemblyInfoInputs.cache
+C:\Users\55929\Desktop\Projetos\UrnaEletronica\UrnaEletronica\UrnaEletronica\obj\Debug\netcoreapp3.1\UrnaEletronica.CLI.AssemblyInfo.cs
+C:\Users\55929\Desktop\Projetos\UrnaEletronica\UrnaEletronica\UrnaEletronica\obj\Debug\netcoreapp3.1\UrnaEletronica.CLI.csproj.CoreCompileInputs.cache
+C:\Users\55929\Desktop\Projetos\UrnaEletronica\UrnaEletronica\UrnaEletronica\obj\Debug\netcoreapp3.1\UrnaEletronica.CLI.dll
+C:\Users\55929\Desktop\Projetos\UrnaEletronica\UrnaEletronica\UrnaEletronica\obj\Debug\netcoreapp3.1\UrnaEletronica.CLI.pdb
+C:\Users\55929\Desktop\Projetos\UrnaEletronica\UrnaEletronica\UrnaEletronica\obj\Debug\netcoreapp3.1\UrnaEletronica.CLI.genruntimeconfig.cache
+C:\Users\55929\Desktop\Projetos\UrnaEletronica\UrnaEletronica\UrnaEletronica\bin\Debug\netcoreapp3.1\UrnaEletronica.Domain.dll
+C:\Users\55929\Desktop\Projetos\UrnaEletronica\UrnaEletronica\UrnaEletronica\bin\Debug\netcoreapp3.1\UrnaEletronica.Domain.pdb
+C:\Users\55929\Desktop\Projetos\UrnaEletronica\UrnaEletronica\UrnaEletronica\obj\Debug\netcoreapp3.1\UrnaEletronica.CLI.csproj.CopyComplete
