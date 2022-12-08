@@ -1,6 +1,8 @@
 ﻿using System;
+using System.ComponentModel;
 using System.Linq.Expressions;
 using UrnaEletronica.Domain.Models;
+using UrnaEletronica.Domain.DAO;
 
 namespace UrnaEletronica.CLI
 {
@@ -36,7 +38,8 @@ namespace UrnaEletronica.CLI
             CandidatoASerCadastrado.CargoDisputado = cargoDisputado;
             CandidatoASerCadastrado.Partido = Partido;
 
-
+            
+            
         }
     }
 }
