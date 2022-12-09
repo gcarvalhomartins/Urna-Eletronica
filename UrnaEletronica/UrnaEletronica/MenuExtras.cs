@@ -3,13 +3,16 @@ using System.ComponentModel;
 using System.Linq.Expressions;
 using UrnaEletronica.Domain.Models;
 using UrnaEletronica.Domain.DAO;
+using UrnaEletronica.Domain.Services;
+using System.Runtime.CompilerServices;
 
 namespace UrnaEletronica.CLI
 {
-    internal class MenuExtras
+    public class MenuExtras
     {
         public static void CadastrarVisitante()
         {
+            CandidatoExtraServices _candidatoExtraServices = new CandidatoExtraServices();
             
             Console.WriteLine("Olá Você está no extras , Aqui você pode se tornar um candidato =) ");
             
@@ -38,7 +41,7 @@ namespace UrnaEletronica.CLI
             CandidatoASerCadastrado.CargoDisputado = cargoDisputado;
             CandidatoASerCadastrado.Partido = Partido;
 
-            
+            _candidatoExtraServices.AdicionarVisitanteNaLista(CandidatoASerCadastrado);
             
         }
     }

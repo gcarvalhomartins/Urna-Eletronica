@@ -29,7 +29,7 @@ namespace UrnaEletronica
                     Console.WriteLine();
                     break;
                 case "c":
-                        MenuExtras.CadastrarVisitante();
+                    MenuExtras.CadastrarVisitante();
                     break;
                 default:
                     pediuPraSair= true;

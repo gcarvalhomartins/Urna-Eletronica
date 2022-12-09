@@ -4,11 +4,12 @@ using UrnaEletronica.Domain.Models;
 
 namespace UrnaEletronica.Domain.Services
 {
-	public class CandidatoExtraServicos
+	public class CandidatoExtraServices
 	{	
 		public void AdicionarVisitanteNaLista(Candidato CandidatoASerCadastrado)
 		{
-			// adicionando o candidato 
+			CandidatoASerCadastrado.DataDeCriacao = DateTime.Now;
+			CandidatosDao.ListaDeCandidatos.Add(CandidatoASerCadastrado);
 		}
 		
 	}

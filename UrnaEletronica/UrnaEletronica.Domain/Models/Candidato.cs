@@ -10,6 +10,6 @@ namespace UrnaEletronica.Domain.Models
 		public int Numero { get; set; }
 		public string CargoDisputado { get; set; }
 		public string Partido { get; set; }
-
+		public DateTime DataDeCriacao { get; set; }
 	}
 }

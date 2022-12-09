@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using UrnaEletronica.Domain.DAO;
 
 namespace UrnaEletronica.CLI
 {
@@ -22,7 +23,7 @@ namespace UrnaEletronica.CLI
                 switch (respostaUsuario.ToLower())
                 {
                     case "a":
-                        Console.WriteLine();
+                        Console.WriteLine(CandidatosDao.ListaDeCandidatos);
                         break;
                     case "b":
                         Console.WriteLine();
