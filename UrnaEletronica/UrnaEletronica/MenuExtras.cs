@@ -9,10 +9,11 @@ using System.Runtime.CompilerServices;
 namespace UrnaEletronica.CLI
 {
     public class MenuExtras
-    {
+    { 
+        static CandidatoExtraServices _candidatoExtraServices = new CandidatoExtraServices();
         public static void CadastrarVisitante()
         {
-            CandidatoExtraServices _candidatoExtraServices = new CandidatoExtraServices();
+            
             
             Console.WriteLine("Olá Você está no extras , Aqui você pode se tornar um candidato =) ");
             

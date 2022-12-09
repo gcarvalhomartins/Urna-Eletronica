@@ -5,9 +5,10 @@ using UrnaEletronica.Domain.DAO;
 namespace UrnaEletronica.CLI
 {
 
-	internal class MenuCandidato
-	{
-		public static void ExibirCandidato()
+	internal class ExibirListaDeCandidatos
+	{   
+        static CandidatosDao _candidatosDAO = new CandidatosDao(); 
+		public static void MenuExibirCandidato()
 		{
             string respostaUsuario;
             bool pediuPraSair = false;
@@ -37,6 +38,10 @@ namespace UrnaEletronica.CLI
                 }
 
             } while (!pediuPraSair);
+        }
+        public void ExibirCandidatos()
+        {
+            
         }
 	}
 }
