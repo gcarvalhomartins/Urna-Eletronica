@@ -5,9 +5,11 @@ using UrnaEletronica.Domain.DAO;
 namespace UrnaEletronica.CLI
 {
 
-	internal class ExibirListaDeCandidatos
+	internal class ExibirCandidatos
 	{   
-        static CandidatosDao _candidatosDAO = new CandidatosDao(); 
+        static CandidatosDao _candidatosDAO = new CandidatosDao();
+
+        static MenuExtras _menuExtras = new MenuExtras();
 		public static void MenuExibirCandidato()
 		{
             string respostaUsuario;
@@ -24,7 +26,7 @@ namespace UrnaEletronica.CLI
                 switch (respostaUsuario.ToLower())
                 {
                     case "a":
-                        Console.WriteLine(CandidatosDao.ListaDeCandidatos);
+                        Exibir();
                         break;
                     case "b":
                         Console.WriteLine();
@@ -39,9 +41,16 @@ namespace UrnaEletronica.CLI
 
             } while (!pediuPraSair);
         }
-        public void ExibirCandidatos()
+        public static void Exibir()
         {
-            
+            foreach( var candidato in CandidatosDao.ListaDeCandidatos)
+            {
+                Console.WriteLine("Id do Candidato : " + candidato.Id);
+                Console.WriteLine("Nome do Candidato : " + candidato.Nome);
+                Console.WriteLine("Número do Candidato : " + candidato.Numero);
+                Console.WriteLine("Partido do Candiato :" + candidato.Partido);
+                Console.WriteLine("Cargo Disputado :" + candidato.CargoDisputado);
+            }
         }
 	}
 }
