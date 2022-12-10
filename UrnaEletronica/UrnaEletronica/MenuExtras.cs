@@ -13,8 +13,6 @@ namespace UrnaEletronica.CLI
         static CandidatoExtraServices _candidatoExtraServices = new CandidatoExtraServices();
         public static void CadastrarVisitante()
         {
-            
-            
             Console.WriteLine("Olá Você está no extras , Aqui você pode se tornar um candidato =) ");
             
             Console.WriteLine("Digite seu código de Identificação ");
@@ -35,14 +33,14 @@ namespace UrnaEletronica.CLI
             int idVisitante = int.Parse(id);
             int numeroVisitante = int.Parse(numero);
 
-            Candidato CandidatoASerCadastrado = new Candidato();
-            CandidatoASerCadastrado.Id = idVisitante;
-            CandidatoASerCadastrado.Nome = nomeVisitante;
-            CandidatoASerCadastrado.Numero = numeroVisitante;
-            CandidatoASerCadastrado.CargoDisputado = cargoDisputado;
-            CandidatoASerCadastrado.Partido = Partido;
+            Candidato candidatoASerCadastrado = new Candidato();
+            candidatoASerCadastrado.Id = idVisitante;
+            candidatoASerCadastrado.Nome = nomeVisitante;
+            candidatoASerCadastrado.Numero = numeroVisitante;
+            candidatoASerCadastrado.Partido = Partido;
+            candidatoASerCadastrado.CargoDisputado = cargoDisputado;
 
-            _candidatoExtraServices.AdicionarVisitanteNaLista(CandidatoASerCadastrado);
+            _candidatoExtraServices.AdicionarVisitanteNaLista(candidatoASerCadastrado);
             
         }
     }

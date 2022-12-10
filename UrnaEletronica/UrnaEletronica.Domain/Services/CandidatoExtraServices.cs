@@ -8,15 +8,10 @@ namespace UrnaEletronica.Domain.Services
 	public class CandidatoExtraServices
 	{	
 		static CandidatosDao _candidatosDAO = new CandidatosDao();
-		public void AdicionarVisitanteNaLista(Candidato CandidatoASerCadastrado)
+		public void AdicionarVisitanteNaLista(Candidato candidatoASerCadastrado)
 		{
-			CandidatoASerCadastrado.DataDeCriacao = DateTime.Now;
-			CandidatosDao.ListaDeCandidatos.Add(CandidatoASerCadastrado);
-			
-		}
-		public void ListarCandidatos()
-		{
-			
+			candidatoASerCadastrado.DataDeCriacao = DateTime.Now;
+			CandidatosDao.ListaDeCandidatos.Add(candidatoASerCadastrado);
 			
 		}
 		
