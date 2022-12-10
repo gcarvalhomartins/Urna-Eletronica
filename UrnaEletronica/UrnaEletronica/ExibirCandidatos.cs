@@ -63,24 +63,24 @@ namespace UrnaEletronica.CLI
             candidatos1.CargoDisputado = "Presidencia";
 
             Candidato candidatos2 = new Candidato();
-            candidatos2.Id = 2323;
-            candidatos2.Nome = "José";
+            candidatos2.Id = 4675;
+            candidatos2.Nome = "Paulo";
             candidatos2.Numero = 13;
-            candidatos2.Partido = "PVV";
+            candidatos2.Partido = "KDI";
             candidatos2.CargoDisputado = "Presidencia";
 
             Candidato candidatos3 = new Candidato();
-            candidatos3.Id = 2323;
-            candidatos3.Nome = "José";
+            candidatos3.Id = 9090;
+            candidatos3.Nome = "Marquinhos";
             candidatos3.Numero = 13;
-            candidatos3.Partido = "PVV";
+            candidatos3.Partido = "KEJ";
             candidatos3.CargoDisputado = "Governador";
 
             Candidato candidatos4 = new Candidato();
-            candidatos4.Id = 2323;
-            candidatos4.Nome = "José";
+            candidatos4.Id = 5648;
+            candidatos4.Nome = "Yoham";
             candidatos4.Numero = 13;
-            candidatos4.Partido = "PVV";
+            candidatos4.Partido = "SWE";
             candidatos4.CargoDisputado = "Governador";
 
             _candidadoExtrasServices.AdicionarVisitanteNaLista(candidatos1);
