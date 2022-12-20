@@ -40,7 +40,7 @@ namespace UrnaEletronica.CLI
             candidatoASerCadastrado.Partido = Partido;
             candidatoASerCadastrado.CargoDisputado = cargoDisputado;
 
-            _candidatoExtraServices.AdicionarVisitanteNaLista(candidatoASerCadastrado);
+            _candidatoExtraServices.AdicionarCandidatoNaLista(candidatoASerCadastrado);
             
         }
     }
