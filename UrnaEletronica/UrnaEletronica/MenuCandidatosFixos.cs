@@ -95,7 +95,7 @@ namespace UrnaEletronica.CLI
             VerificacaoCandidatosFixos(candidatos4);
 
         }
-        static void VerificacaoCandidatosFixos(Candidato candidatoASerCadastrado)
+        public static void VerificacaoCandidatosFixos(Candidato candidatoASerCadastrado)
         {
             bool jaExiste = _candidatosFixosServices.JaExisteCadastroCandidato(candidatoASerCadastrado.Id);
             if (jaExiste)

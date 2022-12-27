@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\55929\\Desktop\\Projetos\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica.CLI.csproj": {}
+    "C:\\Users\\gabriel.carvalho\\Desktop\\Projetos 2.0\\Urna-Eletronica\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica.CLI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\55929\\Desktop\\Projetos\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica.Domain\\UrnaEletronica.Domain.csproj": {
+    "C:\\Users\\gabriel.carvalho\\Desktop\\Projetos 2.0\\Urna-Eletronica\\UrnaEletronica\\UrnaEletronica.Domain\\UrnaEletronica.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\55929\\Desktop\\Projetos\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica.Domain\\UrnaEletronica.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\gabriel.carvalho\\Desktop\\Projetos 2.0\\Urna-Eletronica\\UrnaEletronica\\UrnaEletronica.Domain\\UrnaEletronica.Domain.csproj",
         "projectName": "UrnaEletronica.Domain",
-        "projectPath": "C:\\Users\\55929\\Desktop\\Projetos\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica.Domain\\UrnaEletronica.Domain.csproj",
-        "packagesPath": "C:\\Users\\55929\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\55929\\Desktop\\Projetos\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica.Domain\\obj\\",
+        "projectPath": "C:\\Users\\gabriel.carvalho\\Desktop\\Projetos 2.0\\Urna-Eletronica\\UrnaEletronica\\UrnaEletronica.Domain\\UrnaEletronica.Domain.csproj",
+        "packagesPath": "C:\\Users\\gabriel.carvalho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gabriel.carvalho\\Desktop\\Projetos 2.0\\Urna-Eletronica\\UrnaEletronica\\UrnaEletronica.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\55929\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gabriel.carvalho\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -59,24 +59,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\55929\\Desktop\\Projetos\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica.CLI.csproj": {
+    "C:\\Users\\gabriel.carvalho\\Desktop\\Projetos 2.0\\Urna-Eletronica\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica.CLI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\55929\\Desktop\\Projetos\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica.CLI.csproj",
+        "projectUniqueName": "C:\\Users\\gabriel.carvalho\\Desktop\\Projetos 2.0\\Urna-Eletronica\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica.CLI.csproj",
         "projectName": "UrnaEletronica.CLI",
-        "projectPath": "C:\\Users\\55929\\Desktop\\Projetos\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica.CLI.csproj",
-        "packagesPath": "C:\\Users\\55929\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\55929\\Desktop\\Projetos\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica\\obj\\",
+        "projectPath": "C:\\Users\\gabriel.carvalho\\Desktop\\Projetos 2.0\\Urna-Eletronica\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica.CLI.csproj",
+        "packagesPath": "C:\\Users\\gabriel.carvalho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gabriel.carvalho\\Desktop\\Projetos 2.0\\Urna-Eletronica\\UrnaEletronica\\UrnaEletronica\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\55929\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gabriel.carvalho\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -91,8 +91,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\55929\\Desktop\\Projetos\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica.Domain\\UrnaEletronica.Domain.csproj": {
-                "projectPath": "C:\\Users\\55929\\Desktop\\Projetos\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica.Domain\\UrnaEletronica.Domain.csproj"
+              "C:\\Users\\gabriel.carvalho\\Desktop\\Projetos 2.0\\Urna-Eletronica\\UrnaEletronica\\UrnaEletronica.Domain\\UrnaEletronica.Domain.csproj": {
+                "projectPath": "C:\\Users\\gabriel.carvalho\\Desktop\\Projetos 2.0\\Urna-Eletronica\\UrnaEletronica\\UrnaEletronica.Domain\\UrnaEletronica.Domain.csproj"
               }
             }
           }
@@ -117,12 +117,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.30, 3.1.30]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
