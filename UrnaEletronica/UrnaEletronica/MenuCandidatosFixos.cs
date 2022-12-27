@@ -7,7 +7,7 @@ using UrnaEletronica.Domain.Services;
 namespace UrnaEletronica.CLI
 {
 
-    internal class ExibirCandidatos
+    internal class MenuCandidatosFixos
     {
 
         static CandidatoExtraServices _candidadoExtrasServices = new CandidatoExtraServices();

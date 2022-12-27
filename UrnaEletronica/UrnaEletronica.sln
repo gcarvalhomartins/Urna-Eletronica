@@ -10,6 +10,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UrnaEletronica.CLI", "UrnaE
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UrnaEletronica.Domain", "UrnaEletronica.Domain\UrnaEletronica.Domain.csproj", "{55467D19-AB33-4390-8788-BEF15596D382}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrnaEletronica.API", "UrnaEletronica.API\UrnaEletronica.API.csproj", "{B3658455-F70E-4B0B-AA69-AB8DB0A2C83A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,6 +26,10 @@ Global
 		{55467D19-AB33-4390-8788-BEF15596D382}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55467D19-AB33-4390-8788-BEF15596D382}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55467D19-AB33-4390-8788-BEF15596D382}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3658455-F70E-4B0B-AA69-AB8DB0A2C83A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3658455-F70E-4B0B-AA69-AB8DB0A2C83A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3658455-F70E-4B0B-AA69-AB8DB0A2C83A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3658455-F70E-4B0B-AA69-AB8DB0A2C83A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

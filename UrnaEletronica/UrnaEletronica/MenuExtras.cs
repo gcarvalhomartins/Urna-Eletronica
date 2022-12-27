@@ -19,7 +19,7 @@ namespace UrnaEletronica.CLI
             string id = Console.ReadLine();
 
             Console.WriteLine("Digite seu nome");
-            string nomeVisitante= Console.ReadLine();
+            string nomeVisitante = Console.ReadLine();
 
             Console.WriteLine("Digite seu Número Para Votação ");
             string numero = Console.ReadLine();

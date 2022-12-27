@@ -23,7 +23,7 @@ namespace UrnaEletronica
             
             switch(respostaUsuario.ToLower()) {
                 case "a":
-                    CandidatosFixos.MenuExibirCandidato();
+                    MenuCandidatosFixos.MenuExibirCandidato();
                     break;
                 case "b":
                     Console.WriteLine();
