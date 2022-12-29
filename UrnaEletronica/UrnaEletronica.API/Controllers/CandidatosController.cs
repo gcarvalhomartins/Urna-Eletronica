@@ -17,7 +17,12 @@ namespace UrnaEletronica.API.Controllers
            
             return Ok(candidato.Id);
         }
-
+        [HttpGet]
+        public void pegarInformacao()
+        {
+            // logica da informação que quero pegar 
+            // chamo o serviço pra fazer a verificação 
+        }
         
     }
 }

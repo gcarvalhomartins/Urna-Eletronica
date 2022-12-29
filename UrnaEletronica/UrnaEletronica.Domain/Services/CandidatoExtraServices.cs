@@ -11,8 +11,7 @@ namespace UrnaEletronica.Domain.Services
 		public void AdicionarCandidatoNaLista(Candidato candidatoASerCadastrado)
 		{
 			candidatoASerCadastrado.DataDeCriacao = DateTime.Now;
-			CandidatosDao.ListaDeCandidatos.Add(candidatoASerCadastrado);
-			
+			_candidatosDAO.AddCandidato(candidatoASerCadastrado);
 		}
 		
 	}

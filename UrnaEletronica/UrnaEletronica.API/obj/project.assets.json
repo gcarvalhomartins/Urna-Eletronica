@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\55929\\Desktop\\Projetos\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica.API\\UrnaEletronica.API.csproj",
+      "projectUniqueName": "C:\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica.API\\UrnaEletronica.API.csproj",
       "projectName": "UrnaEletronica.API",
-      "projectPath": "C:\\Users\\55929\\Desktop\\Projetos\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica.API\\UrnaEletronica.API.csproj",
+      "projectPath": "C:\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica.API\\UrnaEletronica.API.csproj",
       "packagesPath": "C:\\Users\\55929\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\55929\\Desktop\\Projetos\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica.API\\obj\\",
+      "outputPath": "C:\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,8 +58,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\55929\\Desktop\\Projetos\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica.Domain\\UrnaEletronica.Domain.csproj": {
-              "projectPath": "C:\\Users\\55929\\Desktop\\Projetos\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica.Domain\\UrnaEletronica.Domain.csproj"
+            "C:\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica.Domain\\UrnaEletronica.Domain.csproj": {
+              "projectPath": "C:\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica.Domain\\UrnaEletronica.Domain.csproj"
             }
           }
         }
