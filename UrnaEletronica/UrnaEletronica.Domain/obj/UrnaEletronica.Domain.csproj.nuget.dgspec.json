@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica.Domain\\UrnaEletronica.Domain.csproj": {}
+    "C:\\Projetos\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica.Domain\\UrnaEletronica.Domain.csproj": {}
   },
   "projects": {
-    "C:\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica.Domain\\UrnaEletronica.Domain.csproj": {
+    "C:\\Projetos\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica.Domain\\UrnaEletronica.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica.Domain\\UrnaEletronica.Domain.csproj",
+        "projectUniqueName": "C:\\Projetos\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica.Domain\\UrnaEletronica.Domain.csproj",
         "projectName": "UrnaEletronica.Domain",
-        "projectPath": "C:\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica.Domain\\UrnaEletronica.Domain.csproj",
+        "projectPath": "C:\\Projetos\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica.Domain\\UrnaEletronica.Domain.csproj",
         "packagesPath": "C:\\Users\\55929\\.nuget\\packages\\",
-        "outputPath": "C:\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica.Domain\\obj\\",
+        "outputPath": "C:\\Projetos\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
