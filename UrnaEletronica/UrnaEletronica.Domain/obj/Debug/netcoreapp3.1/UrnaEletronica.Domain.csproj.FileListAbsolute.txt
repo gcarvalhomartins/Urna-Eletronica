@@ -18,3 +18,13 @@ C:\UrnaEletronica\UrnaEletronica\UrnaEletronica.Domain\obj\Debug\netcoreapp3.1\U
 C:\UrnaEletronica\UrnaEletronica\UrnaEletronica.Domain\obj\Debug\netcoreapp3.1\UrnaEletronica.Domain.csproj.CoreCompileInputs.cache
 C:\UrnaEletronica\UrnaEletronica\UrnaEletronica.Domain\obj\Debug\netcoreapp3.1\UrnaEletronica.Domain.dll
 C:\UrnaEletronica\UrnaEletronica\UrnaEletronica.Domain\obj\Debug\netcoreapp3.1\UrnaEletronica.Domain.pdb
+C:\Projetos\UrnaEletronica\UrnaEletronica\UrnaEletronica.Domain\bin\Debug\netcoreapp3.1\UrnaEletronica.Domain.deps.json
+C:\Projetos\UrnaEletronica\UrnaEletronica\UrnaEletronica.Domain\bin\Debug\netcoreapp3.1\UrnaEletronica.Domain.dll
+C:\Projetos\UrnaEletronica\UrnaEletronica\UrnaEletronica.Domain\bin\Debug\netcoreapp3.1\UrnaEletronica.Domain.pdb
+C:\Projetos\UrnaEletronica\UrnaEletronica\UrnaEletronica.Domain\obj\Debug\netcoreapp3.1\UrnaEletronica.Domain.csproj.AssemblyReference.cache
+C:\Projetos\UrnaEletronica\UrnaEletronica\UrnaEletronica.Domain\obj\Debug\netcoreapp3.1\UrnaEletronica.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\UrnaEletronica\UrnaEletronica\UrnaEletronica.Domain\obj\Debug\netcoreapp3.1\UrnaEletronica.Domain.AssemblyInfoInputs.cache
+C:\Projetos\UrnaEletronica\UrnaEletronica\UrnaEletronica.Domain\obj\Debug\netcoreapp3.1\UrnaEletronica.Domain.AssemblyInfo.cs
+C:\Projetos\UrnaEletronica\UrnaEletronica\UrnaEletronica.Domain\obj\Debug\netcoreapp3.1\UrnaEletronica.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\UrnaEletronica\UrnaEletronica\UrnaEletronica.Domain\obj\Debug\netcoreapp3.1\UrnaEletronica.Domain.dll
+C:\Projetos\UrnaEletronica\UrnaEletronica\UrnaEletronica.Domain\obj\Debug\netcoreapp3.1\UrnaEletronica.Domain.pdb

@@ -14,29 +14,30 @@ namespace UrnaEletronica
             do
             {
 
-            Console.WriteLine("Olá sou sua Urna Eletronica =)");
-            Console.WriteLine("A - Para Vizualizar os Candidatos ");
-            Console.WriteLine("B - Para Votar Diretamente ");
-            Console.WriteLine("C - Extras ");
-           
-            respostaUsuario= Console.ReadLine();
-            
-            switch(respostaUsuario.ToLower()) {
-                case "a":
-                    MenuCandidatosFixos.MenuExibirCandidato();
-                    break;
-                case "b":
-                    Console.WriteLine();
-                    break;
-                case "c":
-                    MenuExtras.CadastrarVisitante();
-                    break;
-                default:
-                    pediuPraSair= true;
-                    break;
-            }
+                Console.WriteLine("Olá sou sua Urna Eletronica =)");
+                Console.WriteLine("A - Para Vizualizar os Candidatos ");
+                Console.WriteLine("B - Para Votar Diretamente ");
+                Console.WriteLine("C - Extras ");
 
-            }while(!pediuPraSair);
+                respostaUsuario = Console.ReadLine();
+
+                switch (respostaUsuario.ToLower())
+                {
+                    case "a":
+                        MenuCandidatosFixos.MenuExibirCandidato();
+                        break;
+                    case "b":
+                        MenuVotacao.Votacao();
+                        break;
+                    case "c":
+                        MenuExtras.CadastrarVisitante();
+                        break;
+                    default:
+                        pediuPraSair = true;
+                        break;
+                }
+
+            } while (!pediuPraSair);
         }
     }
 }

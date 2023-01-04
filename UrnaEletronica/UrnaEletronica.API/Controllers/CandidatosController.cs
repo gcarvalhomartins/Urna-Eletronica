@@ -8,13 +8,13 @@ namespace UrnaEletronica.API.Controllers
     [Route("api/Candidatos")]
     [ApiController]
     public class CandidatosController : ControllerBase
-    {   
+    {
         private CandidatoExtraServices _candidatoExtraServices = new CandidatoExtraServices();
-        
+
         [HttpPost]
         public ActionResult CadastrarCandidato([FromBody] Candidato candidato)
         {
-           
+
             return Ok(candidato.Id);
         }
         [HttpGet]
@@ -23,7 +23,7 @@ namespace UrnaEletronica.API.Controllers
             // logica da informação que quero pegar 
             // chamo o serviço pra fazer a verificação 
         }
-        
+
     }
 }
 
