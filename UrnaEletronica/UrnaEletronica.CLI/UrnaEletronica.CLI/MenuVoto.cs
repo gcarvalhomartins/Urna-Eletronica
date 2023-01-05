@@ -37,7 +37,7 @@ namespace UrnaEletronica.CLI
             switch (confirmacaoDeVoto.ToLower())
             {
                 case "a":
-                    ConfirmarVoto();
+                    ConfirmarVotoParaEleitor();
                     break;
                 case "b":
                     Console.WriteLine();
@@ -55,10 +55,10 @@ namespace UrnaEletronica.CLI
             Console.WriteLine("Cargo Disputado :" + candidato.CargoDisputado);
 
         }
-        static void ConfirmarVoto(Eleitor confirmarVoto)
+        static void ConfirmarVotoParaEleitor()
         {
             Eleitor votoASerRealizado = new Eleitor();
-            votoASerRealizado.VotoCotado = confirmarVoto.VotoCotado;
+            votoASerRealizado.VotoCotado = votoASerRealizado.VotoCotado;
             _urnaService.AddVoto(votoASerRealizado);
 
             Console.WriteLine("Voto confirmado com sucesso");

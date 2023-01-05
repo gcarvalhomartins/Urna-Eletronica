@@ -10,6 +10,7 @@ namespace UrnaEletronica.Domain.Services
     public class UrnaServices
     {
         private static CandidatoDao _candidatoDao = new CandidatoDao();
+        private static EleitorDAO _eleitorDAO = new EleitorDAO();
         public List<Candidato> ListarCandidatos()
         {
             return CandidatoDao.ListaDeCandidatos.OrderBy(item => item.Nome).ToList();
@@ -46,7 +47,12 @@ namespace UrnaEletronica.Domain.Services
             Eleitor voto = EleitorDAO.ListaDeVotoCotados.Where(item => item.VotoCotado == votoASercotado).First();
             return voto;
         }
-    
-        
+        static void RegistrarVoto()
+        {
+          //  Eleitor votoASerRealizado = new Eleitor();
+            //votoASerRealizado.VotoCotado = confirmarVoto.VotoCotado;
+           // _eleitorDAO.AddVoto(votoASerRealizado);
+        }
+
     }
 }
