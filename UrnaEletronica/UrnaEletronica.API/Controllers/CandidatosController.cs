@@ -18,7 +18,6 @@ namespace UrnaEletronica.API.Controllers
             return Ok(candidato.Id);
         }
 
-        
     }
 }
 
