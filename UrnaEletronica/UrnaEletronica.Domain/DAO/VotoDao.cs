@@ -7,10 +7,11 @@ namespace UrnaEletronica.Domain.DAO
 {
     internal class VotoDao
     {
-        public static List<VotoEleitor> ListaDeVotos = new List<VotoEleitor>();
-        public void AddVoto(VotoEleitor votoASerCadastrado)
+        public static List<Voto> ListaDeVotoEleito = new List<Voto>();
+
+        public void AddVoto(Voto voto)
         {
-            ListaDeVotos.Add(votoASerCadastrado);
+            ListaDeVotoEleito.Add(voto);
         }
     }
 }
