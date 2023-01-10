@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "H62uHPPOsJZ6SBjaAZcryjrovrDV4YSPGTTfM36H0p7hJuVsQRyTL2TMF03fZmybSFSwuJtYd9tu163F8sK4vg==",
+  "dgSpecHash": "KIEPyHikSZufCy3Kggr/L4Yt+Vsj0GLHlnl2J1fijyBTnGq+UQGloxm6UujcLZnNVWAUOBg/P8ZZtp8N9khH5w==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica.CLI\\UrnaEletronica.CLI\\UrnaEletronica.CLI.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\gabriel.carvalho\\Desktop\\Projetos 2.0\\Urna-Eletronica\\UrnaEletronica\\UrnaEletronica.CLI\\UrnaEletronica.CLI\\UrnaEletronica.CLI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabriel.carvalho\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
   "logs": []
 }

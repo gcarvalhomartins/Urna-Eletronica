@@ -4,9 +4,9 @@ using System.Text;
 
 namespace UrnaEletronica.Domain.Models
 {
-    public class Eleitor
+    public class Eleitor : Entity
     {
-       public string Nome { get; set; }
+       public string EleitorNome { get; set; }
        public int titulo { get; set; }
        
        

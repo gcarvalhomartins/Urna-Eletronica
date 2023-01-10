@@ -4,7 +4,7 @@ using System.Text;
 
 namespace UrnaEletronica.Domain.Models
 {
-    public class Candidato
+    public class Candidato : Voto
     {
         public string Nome { get; set; }
         public int Numero { get; set; }

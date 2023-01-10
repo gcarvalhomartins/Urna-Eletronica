@@ -15,20 +15,8 @@ C:\Projetos\UrnaEletronica\UrnaEletronica\UrnaEletronica.CLI\UrnaEletronica.CLI\
 C:\Projetos\UrnaEletronica\UrnaEletronica\UrnaEletronica.CLI\UrnaEletronica.CLI\obj\Debug\netcoreapp3.1\UrnaEletronica.CLI.dll
 C:\Projetos\UrnaEletronica\UrnaEletronica\UrnaEletronica.CLI\UrnaEletronica.CLI\obj\Debug\netcoreapp3.1\UrnaEletronica.CLI.pdb
 C:\Projetos\UrnaEletronica\UrnaEletronica\UrnaEletronica.CLI\UrnaEletronica.CLI\obj\Debug\netcoreapp3.1\UrnaEletronica.CLI.genruntimeconfig.cache
-C:\Users\gabriel.carvalho\Desktop\Projetos 2.0\Urna-Eletronica\UrnaEletronica\UrnaEletronica.CLI\UrnaEletronica.CLI\bin\Debug\netcoreapp3.1\UrnaEletronica.CLI.exe
-C:\Users\gabriel.carvalho\Desktop\Projetos 2.0\Urna-Eletronica\UrnaEletronica\UrnaEletronica.CLI\UrnaEletronica.CLI\bin\Debug\netcoreapp3.1\UrnaEletronica.CLI.deps.json
-C:\Users\gabriel.carvalho\Desktop\Projetos 2.0\Urna-Eletronica\UrnaEletronica\UrnaEletronica.CLI\UrnaEletronica.CLI\bin\Debug\netcoreapp3.1\UrnaEletronica.CLI.runtimeconfig.json
-C:\Users\gabriel.carvalho\Desktop\Projetos 2.0\Urna-Eletronica\UrnaEletronica\UrnaEletronica.CLI\UrnaEletronica.CLI\bin\Debug\netcoreapp3.1\UrnaEletronica.CLI.runtimeconfig.dev.json
-C:\Users\gabriel.carvalho\Desktop\Projetos 2.0\Urna-Eletronica\UrnaEletronica\UrnaEletronica.CLI\UrnaEletronica.CLI\bin\Debug\netcoreapp3.1\UrnaEletronica.CLI.dll
-C:\Users\gabriel.carvalho\Desktop\Projetos 2.0\Urna-Eletronica\UrnaEletronica\UrnaEletronica.CLI\UrnaEletronica.CLI\bin\Debug\netcoreapp3.1\UrnaEletronica.CLI.pdb
-C:\Users\gabriel.carvalho\Desktop\Projetos 2.0\Urna-Eletronica\UrnaEletronica\UrnaEletronica.CLI\UrnaEletronica.CLI\bin\Debug\netcoreapp3.1\UrnaEletronica.Domain.dll
-C:\Users\gabriel.carvalho\Desktop\Projetos 2.0\Urna-Eletronica\UrnaEletronica\UrnaEletronica.CLI\UrnaEletronica.CLI\bin\Debug\netcoreapp3.1\UrnaEletronica.Domain.pdb
 C:\Users\gabriel.carvalho\Desktop\Projetos 2.0\Urna-Eletronica\UrnaEletronica\UrnaEletronica.CLI\UrnaEletronica.CLI\obj\Debug\netcoreapp3.1\UrnaEletronica.CLI.csproj.AssemblyReference.cache
 C:\Users\gabriel.carvalho\Desktop\Projetos 2.0\Urna-Eletronica\UrnaEletronica\UrnaEletronica.CLI\UrnaEletronica.CLI\obj\Debug\netcoreapp3.1\UrnaEletronica.CLI.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\gabriel.carvalho\Desktop\Projetos 2.0\Urna-Eletronica\UrnaEletronica\UrnaEletronica.CLI\UrnaEletronica.CLI\obj\Debug\netcoreapp3.1\UrnaEletronica.CLI.AssemblyInfoInputs.cache
 C:\Users\gabriel.carvalho\Desktop\Projetos 2.0\Urna-Eletronica\UrnaEletronica\UrnaEletronica.CLI\UrnaEletronica.CLI\obj\Debug\netcoreapp3.1\UrnaEletronica.CLI.AssemblyInfo.cs
 C:\Users\gabriel.carvalho\Desktop\Projetos 2.0\Urna-Eletronica\UrnaEletronica\UrnaEletronica.CLI\UrnaEletronica.CLI\obj\Debug\netcoreapp3.1\UrnaEletronica.CLI.csproj.CoreCompileInputs.cache
-C:\Users\gabriel.carvalho\Desktop\Projetos 2.0\Urna-Eletronica\UrnaEletronica\UrnaEletronica.CLI\UrnaEletronica.CLI\obj\Debug\netcoreapp3.1\UrnaEletronica.CLI.csproj.CopyComplete
-C:\Users\gabriel.carvalho\Desktop\Projetos 2.0\Urna-Eletronica\UrnaEletronica\UrnaEletronica.CLI\UrnaEletronica.CLI\obj\Debug\netcoreapp3.1\UrnaEletronica.CLI.dll
-C:\Users\gabriel.carvalho\Desktop\Projetos 2.0\Urna-Eletronica\UrnaEletronica\UrnaEletronica.CLI\UrnaEletronica.CLI\obj\Debug\netcoreapp3.1\UrnaEletronica.CLI.pdb
-C:\Users\gabriel.carvalho\Desktop\Projetos 2.0\Urna-Eletronica\UrnaEletronica\UrnaEletronica.CLI\UrnaEletronica.CLI\obj\Debug\netcoreapp3.1\UrnaEletronica.CLI.genruntimeconfig.cache

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace UrnaEletronica.Domain.Models
 {
-    public class Urna
+    public class Urna : Eleitor
     {
         public List<Candidato> ListaDeCandidatos { get; set; }
         public List<Eleitor> ListaDeEleitores { get; set; }

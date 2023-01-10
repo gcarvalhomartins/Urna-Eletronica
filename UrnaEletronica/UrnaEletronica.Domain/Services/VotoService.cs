@@ -8,14 +8,35 @@ namespace UrnaEletronica.Domain.Services
 {
     public class VotoService
     {
-        private VotoDAO _votoDao;
+        private UrnaDAO _urnaDao;
 
-        int valorDoVoto = 1;
-        
-        public List<Voto> ContarVotos()
+        public bool VotoNulo(Voto voto)
         {
-            
+            while(voto != null)
+            {
+                _urnaDao.AddVoto(voto);
+                return true;
+            }
+            return false;
         }
-       
+        public bool VotoEmBranco(Voto voto)
+        {
+            while (voto != null)
+            {
+                _urnaDao.AddVoto(voto);
+                return true;
+            }
+            return false;
+        }
+        public bool VotoValido(Voto voto)
+        {
+            while (voto != null)
+            {
+                _urnaDao.AddVoto(voto);
+                return true;
+            }
+            return false;
+        }
+
     }
 }

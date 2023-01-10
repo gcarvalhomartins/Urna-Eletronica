@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Security.Cryptography.X509Certificates;
 
 namespace UrnaEletronica.CLI
 {
@@ -6,12 +7,12 @@ namespace UrnaEletronica.CLI
     {
         static void Main(string[] args)
         {
-
+          
             bool pediuPraSair = false;
 
             do
             {
-
+                
                 Console.WriteLine("Ola sou sua urna Eletronica =) ");
                 Console.WriteLine("Digite o que deseja Realizar ");
                 Console.WriteLine("A - PARA VIZUALIZAR CANDIDATOS ");
