@@ -4,8 +4,11 @@ using System.Text;
 
 namespace UrnaEletronica.Domain.Models
 {
-    public class Eleitor : Candidato
+    public class Eleitor
     {
-        public int VotoCotado { get; set; }
+       public string Nome { get; set; }
+       public int titulo { get; set; }
+       
+       
     }
 }

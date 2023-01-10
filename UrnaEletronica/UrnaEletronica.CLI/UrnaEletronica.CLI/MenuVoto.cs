@@ -7,10 +7,10 @@ using UrnaEletronica.Domain.Services;
 namespace UrnaEletronica.CLI
 {
     public class MenuVoto
-    {   
+    {
         private static UrnaServices _urnaService = new UrnaServices();
         public static void BuscarCandidatoParaVoto()
-        {   
+        {
             Candidato candidatoTeset = new Candidato();
             candidatoTeset.Nome = "tESTE";
             candidatoTeset.Numero = 12;
@@ -48,7 +48,7 @@ namespace UrnaEletronica.CLI
 
             }
         }
-      
+
         public static void ExibirCandidato(Candidato candidato)
         {
             Console.WriteLine("Candidato:" + candidato.Nome);
@@ -58,7 +58,6 @@ namespace UrnaEletronica.CLI
         static void ConfirmarVotoParaEleitor()
         {
             Eleitor votoASerRealizado = new Eleitor();
-            votoASerRealizado.VotoCotado = votoASerRealizado.VotoCotado;
             _urnaService.AddVoto(votoASerRealizado);
 
             Console.WriteLine("Voto confirmado com sucesso");

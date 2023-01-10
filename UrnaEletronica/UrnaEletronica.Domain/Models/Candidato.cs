@@ -10,6 +10,9 @@ namespace UrnaEletronica.Domain.Models
         public int Numero { get; set; }
         public string CargoDisputado { get; set; }
         public string Partido { get; set; }
+        public List<Voto> Voto { get; set; }
+
+        public List<Eleitor> Eleitor { get; set; }
 
     }
 }

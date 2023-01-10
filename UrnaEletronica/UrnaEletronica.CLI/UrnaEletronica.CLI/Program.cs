@@ -6,19 +6,19 @@ namespace UrnaEletronica.CLI
     {
         static void Main(string[] args)
         {
-            
-            bool pediuPraSair= false;
+
+            bool pediuPraSair = false;
 
             do
             {
 
-            Console.WriteLine("Ola sou sua urna Eletronica =) ");
-            Console.WriteLine("Digite o que deseja Realizar ");
-            Console.WriteLine("A - PARA VIZUALIZAR CANDIDATOS ");
-            Console.WriteLine("B - PARA VOTAR DIRETAMENTE ");
-            
-            string respostaUsuario= Console.ReadLine();
-            switch(respostaUsuario.ToLower())
+                Console.WriteLine("Ola sou sua urna Eletronica =) ");
+                Console.WriteLine("Digite o que deseja Realizar ");
+                Console.WriteLine("A - PARA VIZUALIZAR CANDIDATOS ");
+                Console.WriteLine("B - PARA VOTAR DIRETAMENTE ");
+
+                string respostaUsuario = Console.ReadLine();
+                switch (respostaUsuario.ToLower())
                 {
                     case "a":
                         Console.WriteLine();
@@ -30,7 +30,7 @@ namespace UrnaEletronica.CLI
                         pediuPraSair = true;
                         break;
                 }
-            }while(!pediuPraSair);
+            } while (!pediuPraSair);
         }
     }
 }
